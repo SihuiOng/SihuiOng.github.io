@@ -43,10 +43,9 @@ ul.posts li {
     list-style: none;
 }
 
-.oval-image {
-  width: 200px;
-  height: 200px;
+
+img {
   border-radius: 50%;
-  background-image: url(your_image.png);
-  background-size: cover; /* Optional */
+    width: 200px;
+  height: 200px;
 }
